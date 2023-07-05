@@ -1,0 +1,150 @@
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.Form1.resources
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\ProjectIsoft\Syngenta\GPD\NetCore\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.Form1.resources
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.Form1.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormLogin.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.MQTTConfig.resources
+D:\ProjectIsoft\Syngenta\GPD\ToolAutoFillGPD\AutoFillOptel\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormMain.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormLogin.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormMain.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.MQTTConfig.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+C:\Users\19146\OneDrive\Máy tính\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.exe
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll.config
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.deps.json
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.json
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.runtimeconfig.dev.json
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.AssemblyReference.cache
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormLogin.resources
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.FormMain.resources
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.MQTTConfig.resources
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.Properties.Resources.resources
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.SettingForm.resources
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.GenerateResource.cache
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfoInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.AssemblyInfo.cs
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CoreCompileInputs.cache
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.csproj.CopyComplete
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.dll
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.pdb
+D:\ProjectIsoft\Syngenta\GPD\ActiveAnyApp\NetCore\obj\Debug\netcoreapp3.1\NetCore.genruntimeconfig.cache

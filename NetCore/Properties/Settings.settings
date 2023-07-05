@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetCore.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="address_broker" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test.mosquitto.org</Value>
+    </Setting>
+    <Setting Name="port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1883</Value>
+    </Setting>
+    <Setting Name="topic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/vule/projects/monitor</Value>
+    </Setting>
+    <Setting Name="caption_windown" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Optel</Value>
+    </Setting>
+    <Setting Name="class_textbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WindowsForms10.EDIT.app.0.141b42a_r7_ad1</Value>
+    </Setting>
+    <Setting Name="class_button" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WindowsForms10.BUTTON.app.0.141b42a_r7_ad1</Value>
+    </Setting>
+    <Setting Name="caption_button" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Active Click</Value>
+    </Setting>
+    <Setting Name="path_app_find_class" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\FlaUInspect\src\FlaUInspect\bin\FlaUInspect.exe</Value>
+    </Setting>
+    <Setting Name="name_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vuletech@123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
